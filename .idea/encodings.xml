@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ConfigClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaClient1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaClient2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServerDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ZuulService" charset="UTF-8" />
+    <file url="file://F:/my-github/ConfigServer" charset="UTF-8" />
+    <file url="file://F:/my-github/EurekaServerDemo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
