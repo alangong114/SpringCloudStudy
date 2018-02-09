@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConfigClient/ConfigClient.iml" filepath="$PROJECT_DIR$/ConfigClient/ConfigClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy.iml" filepath="$PROJECT_DIR$/SpringCloudStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ConfigServer/config-server.iml" filepath="$PROJECT_DIR$/ConfigServer/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EurekaServerDemo/demo.iml" filepath="$PROJECT_DIR$/EurekaServerDemo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FeignService/feign.iml" filepath="$PROJECT_DIR$/FeignService/feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Service-ribbon/ribbon.iml" filepath="$PROJECT_DIR$/Service-ribbon/ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EurekaClient1/service-hi.iml" filepath="$PROJECT_DIR$/EurekaClient1/service-hi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EurekaClient2/service-hi2.iml" filepath="$PROJECT_DIR$/EurekaClient2/service-hi2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZuulService/service-zuul.iml" filepath="$PROJECT_DIR$/ZuulService/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-gc.iml" filepath="$PROJECT_DIR$/study-gc.iml" />
     </modules>
   </component>
 </project>
